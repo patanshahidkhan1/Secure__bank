@@ -104,5 +104,5 @@ if os.environ.get("CREATE_SUPERUSER") == "True":
             email="admin@example.com",
             password="admin123"
         )
-)
+
 
